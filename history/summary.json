@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.myflorist.co.uk.ico",
     "slug": "my-florist",
     "status": "up",
-    "uptime": "99.87%",
+    "uptime": "99.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "99.87%",
-    "time": 1545,
-    "timeDay": 1659,
-    "timeWeek": 1661,
-    "timeMonth": 1545,
-    "timeYear": 1545,
+    "uptimeYear": "99.88%",
+    "time": 1546,
+    "timeDay": 1562,
+    "timeWeek": 1647,
+    "timeMonth": 1542,
+    "timeYear": 1546,
     "dailyMinutesDown": {
       "2025-03-11": 65
     }
