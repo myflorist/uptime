@@ -1,7 +1,7 @@
 url: https://www.myflorist.co.uk
-status: up
-code: 200
-responseTime: 1258
-lastUpdated: 2025-10-06T23:14:46.937Z
+status: down
+code: 503
+responseTime: 1028
+lastUpdated: 2025-10-07T14:42:13.170Z
 startTime: 2025-03-04T10:19:40.606Z
 generator: Upptime <https://github.com/upptime/upptime>
