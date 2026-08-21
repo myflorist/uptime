@@ -4,24 +4,24 @@
     "url": "https://www.myflorist.co.uk",
     "icon": "https://icons.duckduckgo.com/ip3/www.myflorist.co.uk.ico",
     "slug": "my-florist",
-    "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "96.87%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.90%",
     "uptimeYear": "99.87%",
-    "time": 1632,
-    "timeDay": 10401,
-    "timeWeek": 3632,
-    "timeMonth": 2632,
-    "timeYear": 1656,
+    "time": 1634,
+    "timeDay": 7840,
+    "timeWeek": 3530,
+    "timeMonth": 2635,
+    "timeYear": 1658,
     "dailyMinutesDown": {
       "2025-11-18": 178,
       "2026-01-14": 25,
       "2026-01-29": 43,
       "2026-06-14": 357,
       "2026-07-15": 61,
-      "2026-08-21": 0
+      "2026-08-21": 45
     }
   }
 ]
